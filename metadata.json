@@ -1,0 +1,10 @@
+{
+  "name": "Maya - AI Voice Assistant (माया)",
+  "description": "एक दोस्ताना, समझदार और स्वाभाविक हिंदी व हिंग्लिश AI असिस्टेंट जो पढ़ाई, गेमिंग, गानों और रोज़मर्रा के कामों में आपकी मदद करती है।",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
